@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Ryo Handa.👋
 
-<!--
-**handa-ryo/handa-ryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+バックエンドエンジニアとして活動しています!!
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+### Languages & Frameworks
+・PHP
+・Laravel
+・CakePHP
+・Javascript
+・React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DB & Infrastructure
+・Oracle
+・MySQL
+・Docker
+・AWS
+
+↓Qiiitaもやっています。よろしければ、是非！
+https://qiita.com/dannha
