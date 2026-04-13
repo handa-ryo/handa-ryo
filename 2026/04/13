@@ -1,3 +1,5 @@
 2026/04/13
 Laravel+Docker+WSL2で環境構築
 ツール：A5M2,Claude Code
+ubuntu上にgitとclaude codeインストール
+次回からは、claudeコマンドでclaudeを実行できる。
