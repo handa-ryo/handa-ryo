@@ -1,0 +1,7 @@
+## 学んだこと
+Laravelでの :: と -> の違い
+:: SQL文を組み立て（実行しない）
+-> SQL文を実行する
+
+$query = Example::where('name' => '例');
+$query->get(); //終端メソッドという
